@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8afb2f044e59efc663dcf592ac7f4d4",
+    "revision": "94835c8cb4dc0ecd5e8a11056e2a9013",
     "url": "/tiny-weather/index.html"
   },
   {
-    "revision": "5f1db48e79792cd2c9ff",
+    "revision": "e9486617f0c624eac205",
     "url": "/tiny-weather/static/css/main.d92cd915.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tiny-weather/static/js/2.0805e566.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f1db48e79792cd2c9ff",
-    "url": "/tiny-weather/static/js/main.2b4a324b.chunk.js"
+    "revision": "e9486617f0c624eac205",
+    "url": "/tiny-weather/static/js/main.6bb579e5.chunk.js"
   },
   {
     "revision": "63a530ecee9f2c4c047f",
