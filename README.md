@@ -42,3 +42,11 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 The project is deploy with [github page](https://pages.github.com/)
 
 [image1]: https://user-images.githubusercontent.com/5037791/82836512-d1f42700-9ef0-11ea-8acf-75eb592f50d9.PNG
+
+### Things for improvement
+- Improve UI.
+- Optimize Service's code.
+- Add new features.
+- Handle exceptions error.
+- Change to better Weather service provider.
+- Update log, monitor service.
