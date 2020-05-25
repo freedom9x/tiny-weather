@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherTile  render normal style correct 1`] = `
+<WeatherTile
+  dayName="2020-05-25"
+  isFetching={false}
+  max={21.1}
+  min={10.21}
+  statusIcon="icon.svg"
+  unit="C"
+>
+  <styled.div>
+    <div
+      className="sc-AxjAm iqmdHn"
+    >
+      <styled.div>
+        <div
+          className="sc-AxhCb gMlMqi"
+        >
+          <styled.div>
+            <div
+              className="sc-AxirZ hEbYLu"
+            >
+               
+              2020-05-25
+               
+            </div>
+          </styled.div>
+          <styled.div
+            iconPath="icon.svg"
+          >
+            <div
+              className="sc-AxheI hSEUAb"
+            />
+          </styled.div>
+        </div>
+      </styled.div>
+      <styled.div>
+        <div
+          className="sc-AxiKw gpevwn"
+        >
+          <styled.div>
+            <div
+              className="sc-AxhUy dNxuhj"
+            >
+               
+              21°C
+            </div>
+          </styled.div>
+          <styled.div
+            isCool={true}
+          >
+            <div
+              className="sc-AxgMl fpklkb"
+            />
+          </styled.div>
+          <styled.div>
+            <div
+              className="sc-AxhUy dNxuhj"
+            >
+              10°C
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </div>
+  </styled.div>
+</WeatherTile>
+`;
+
+exports[`WeatherTile  render skeleton style correct 1`] = `
+<WeatherTile
+  isFetching={true}
+>
+  <Styled(styled.div)>
+    <div
+      className="sc-AxjAm sc-Axmtr cQwmQX"
+    />
+  </Styled(styled.div)>
+</WeatherTile>
+`;
